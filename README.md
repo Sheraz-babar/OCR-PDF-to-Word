@@ -39,6 +39,8 @@ The pipeline ensures **reliable text extraction** from scanned PDFs with varying
 
 ```bash
 git clone https://github.com/Sheraz-babar/OCR-PDF-to-Word.git
+```
+```bash
 cd OCR-PDF-to-Word
 ```
 
